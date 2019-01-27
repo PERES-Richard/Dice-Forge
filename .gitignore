@@ -1,0 +1,12 @@
+.idea
+.idea/*
+target
+target/*
+
+.classpath
+.project
+.settings/
+.vscode/
+
+bin/*
+*.prefs

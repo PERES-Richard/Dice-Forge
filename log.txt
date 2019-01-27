@@ -1,0 +1,806 @@
+Date : 11/12 20:29:22
+
+
+New Game! 
+
+################### New Round (turn 1) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    |  3/12 |   0/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  2/12 |   0/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+ | MediumBot  |  1/12 |   0/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot forges Face [0, 6, 0, 0] on Face [0, 0, 1, 0]
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    |  1/12 |   0/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  4/12 |   0/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+ | MediumBot  |  3/12 |   0/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot forges Face [2, 3, 0, 0] on Face [0, 0, 1, 0]
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    |  2/12 |   1/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  1/12 |   0/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+ | MediumBot  |  4/12 |   1/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot buys the card : LeCoffreDuForgeron
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+
+################### New Round (turn 2) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    |  4/12 |   1/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  3/12 |   0/6 |   0/6 |     0 |
+  ────────────────────────────────────────────
+ | MediumBot  |  6/16 |   0/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot buys the card : LeCoffreDuForgeron
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    |  6/16 |   0/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  6/12 |   0/6 |   0/6 |     2 |
+  ────────────────────────────────────────────
+ | MediumBot  |  7/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot forges Face [2, 3, 0, 0] on Face [0, 0, 0, 1]
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    |  8/16 |   0/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  2/12 |   1/6 |   0/6 |     2 |
+  ────────────────────────────────────────────
+ | MediumBot  |  9/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot buys the card : LesHerbesFolles
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+
+################### New Round (turn 3) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 10/16 |   0/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  4/12 |   1/6 |   0/6 |     2 |
+  ────────────────────────────────────────────
+ | MediumBot  | 13/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot forges Face [0, 2, 0, 1] on Face [0, 1, 0, 0]
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    |  8/16 |   0/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  6/12 |   1/6 |   0/6 |     2 |
+  ────────────────────────────────────────────
+ | MediumBot  | 15/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot forges Face [3, 0, 0, 0] on Face [0, 1, 0, 0]
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 10/16 |   2/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  0/12 |   1/6 |   0/6 |     2 |
+  ────────────────────────────────────────────
+ | MediumBot  | 16/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot forges Face [4, 0, 0, 0] on Face [0, 0, 1, 0]
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+
+################### New Round (turn 4) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 16/16 |   2/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  1/12 |   1/6 |   0/6 |     5 |
+  ────────────────────────────────────────────
+ | MediumBot  |  4/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot forges Face [2, 0, 0, 2] on Face [0, 1, 0, 0]
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    |  4/16 |   3/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  5/12 |   1/6 |   0/6 |     5 |
+  ────────────────────────────────────────────
+ | MediumBot  |  6/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot forges Face [2, 3, 0, 0] on Face [0, 1, 0, 0]
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    |  5/16 |   4/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  1/12 |   1/6 |   0/6 |     8 |
+  ────────────────────────────────────────────
+ | MediumBot  |  8/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot forges Face [3, 0, 0, 0] on Face [0, 1, 0, 0]
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+
+################### New Round (turn 5) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 11/16 |   5/9 |   0/9 |     0 |
+  ────────────────────────────────────────────
+ | EasyBot    |  5/12 |   1/6 |   0/6 |     8 |
+  ────────────────────────────────────────────
+ | MediumBot  |  2/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot buys the card : LeCoffreDuForgeron
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 12/20 |  4/12 |  0/12 |     2 |
+  ────────────────────────────────────────────
+ | EasyBot    |  7/12 |   1/6 |   0/6 |     8 |
+  ────────────────────────────────────────────
+ | MediumBot  |  4/16 |   0/9 |   0/9 |     2 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot forges Face [3, 0, 0, 0] on Face [0, 1, 0, 0]
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 14/20 |  4/12 |  0/12 |     2 |
+  ────────────────────────────────────────────
+ | EasyBot    |  1/12 |   1/6 |   0/6 |     8 |
+  ────────────────────────────────────────────
+ | MediumBot  |  5/16 |   0/9 |   0/9 |     4 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot forges Face [2, 3, 0, 0] on Face [0, 0, 1, 0]
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+
+################### New Round (turn 6) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 16/20 |  5/12 |  0/12 |     4 |
+  ────────────────────────────────────────────
+ | EasyBot    |  3/12 |   1/6 |   0/6 |     8 |
+  ────────────────────────────────────────────
+ | MediumBot  |  1/16 |   0/9 |   0/9 |     6 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot buys the card : LeCasqueDInvisibilité
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 18/20 |  0/12 |  0/12 |     4 |
+  ────────────────────────────────────────────
+ | EasyBot    |  4/12 |   1/6 |   0/6 |    11 |
+  ────────────────────────────────────────────
+ | MediumBot  |  3/16 |   0/9 |   0/9 |     6 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot forges Face [3, 0, 0, 0] on Face [0, 1, 0, 0]
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 19/20 |  2/12 |  0/12 |     6 |
+  ────────────────────────────────────────────
+ | EasyBot    |  0/12 |   1/6 |   0/6 |    11 |
+  ────────────────────────────────────────────
+ | MediumBot  |  5/16 |   0/9 |   0/9 |     6 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot forges Face [1, 0, 1, 0] on Face [0, 1, 0, 0]
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+
+################### New Round (turn 7) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 20/20 |  2/12 |  0/12 |     6 |
+  ────────────────────────────────────────────
+ | EasyBot    |  4/12 |   1/6 |   0/6 |    11 |
+  ────────────────────────────────────────────
+ | MediumBot  |  1/16 |   1/9 |   1/9 |     6 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot forges Face [0, 1, 1, 1] on Face [0, 1, 0, 0]
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 16/20 |  2/12 |  0/12 |     6 |
+  ────────────────────────────────────────────
+ | EasyBot    |  8/12 |   1/6 |   0/6 |    11 |
+  ────────────────────────────────────────────
+ | MediumBot  |  2/16 |   1/9 |   2/9 |     7 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot forges Face [1, 1, 1, 1] on Face [0, 1, 0, 0]
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 18/20 |  2/12 |  0/12 |     6 |
+  ────────────────────────────────────────────
+ | EasyBot    |  0/12 |   1/6 |   0/6 |    11 |
+  ────────────────────────────────────────────
+ | MediumBot  |  3/16 |   1/9 |   2/9 |     9 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot forges Face [0, 0, 1, 0] on Face [0, 0, 0, 1]
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+
+################### New Round (turn 8) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 18/20 |  5/12 |  0/12 |     8 |
+  ────────────────────────────────────────────
+ | EasyBot    |  1/12 |   1/6 |   0/6 |    14 |
+  ────────────────────────────────────────────
+ | MediumBot  |  1/16 |   1/9 |   3/9 |    10 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot forges Face [0, 0, 1, 0] on Face [0, 2, 0, 1]
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 16/20 |  6/12 |  0/12 |     8 |
+  ────────────────────────────────────────────
+ | EasyBot    |  2/12 |   2/6 |   1/6 |    17 |
+  ────────────────────────────────────────────
+ | MediumBot  |  2/16 |   1/9 |   3/9 |    13 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot buys the card : LesHerbesFolles
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 20/20 |  7/12 |  0/12 |     8 |
+  ────────────────────────────────────────────
+ | EasyBot    |  6/12 |   2/6 |   0/6 |    20 |
+  ────────────────────────────────────────────
+ | MediumBot  |  3/16 |   1/9 |   4/9 |    13 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot buys the card : LaMéduse
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+
+################### New Round (turn 9) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 20/20 |  7/12 |  0/12 |     8 |
+  ────────────────────────────────────────────
+ | EasyBot    | 10/12 |   2/6 |   0/6 |    20 |
+  ────────────────────────────────────────────
+ | MediumBot  |  4/16 |   1/9 |   0/9 |    15 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot buys the card : LeCasqueDInvisibilité
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 20/20 |  2/12 |  0/12 |     8 |
+  ────────────────────────────────────────────
+ | EasyBot    | 12/12 |   2/6 |   0/6 |    20 |
+  ────────────────────────────────────────────
+ | MediumBot  |  5/16 |   1/9 |   1/9 |    15 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot buys the card : LesSabotsDArgent
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 20/20 |  2/12 |  0/12 |     8 |
+  ────────────────────────────────────────────
+ | EasyBot    | 12/12 |   0/6 |   0/6 |    20 |
+  ────────────────────────────────────────────
+ | MediumBot  |  6/16 |   1/9 |   1/9 |    18 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot forges Face [0, 0, 1, 0] on Face [0, 1, 0, 0]
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+
+################### New Round (turn 10) ###################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 20/20 |  2/12 |  0/12 |     8 |
+  ────────────────────────────────────────────
+ | EasyBot    | 12/12 |   0/6 |   0/6 |    25 |
+  ────────────────────────────────────────────
+ | MediumBot  |  4/16 |   1/9 |   2/9 |    18 |
+  ────────────────────────────────────────────
+
+	#### Start RandBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> RandBot plays !
+
+RandBot buys the card : LesSabotsDArgent
+
+
+	#### End of RandBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 20/20 |  0/12 |  0/12 |     8 |
+  ────────────────────────────────────────────
+ | EasyBot    | 12/12 |   0/6 |   0/6 |    28 |
+  ────────────────────────────────────────────
+ | MediumBot  |  5/16 |   1/9 |   3/9 |    18 |
+  ────────────────────────────────────────────
+
+	#### Start EasyBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> EasyBot plays !
+
+EasyBot use the ability of LesSabotsDArgent
+EasyBot forges Face [0, 3, 0, 0] on Face [3, 0, 0, 0]
+
+
+	#### End of EasyBot's turn.####
+
+#########################################################
+
+  ────────────────────────────────────────────
+ | Player     |  Gold | Lunar | Solar | Glory |
+  ────────────────────────────────────────────
+ | RandBot    | 20/20 |  0/12 |  0/12 |    10 |
+  ────────────────────────────────────────────
+ | EasyBot    | 10/12 |   0/6 |   0/6 |    31 |
+  ────────────────────────────────────────────
+ | MediumBot  |  6/16 |   1/9 |   4/9 |    19 |
+  ────────────────────────────────────────────
+
+	#### Start MediumBot's turn. ####
+
+RandBot roll his dices
+EasyBot roll his dices
+MediumBot roll his dices
+
+
+==> MediumBot plays !
+
+MediumBot buys the card : LaMéduse
+
+
+	#### End of MediumBot's turn.####
+
+#########################################################
+The winner is MediumBot with :   51 glory points and 8 gold and 0 solar and 1 lunar.
